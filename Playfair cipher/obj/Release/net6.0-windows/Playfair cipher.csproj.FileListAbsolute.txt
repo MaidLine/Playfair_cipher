@@ -1,0 +1,2 @@
+C:\Users\89132\source\repos\Playfair cipher\Playfair cipher\bin\Release\net6.0-windows\Playfair cipher.exe
+C:\Users\89132\source\repos\Playfair cipher\Playfair cipher\bin\Release\net6.0-windows\Playfair cipher.dll
